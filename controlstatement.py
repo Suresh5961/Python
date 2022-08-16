@@ -1,6 +1,6 @@
 # control statement
 
-a=10
+a=50
 b=20
 c=30
 #if else
@@ -17,8 +17,8 @@ else:
     else:
          print(b)
 else:
-    print(c)'''
-
+    print(c)
+'''
 #elif
    
 if(a<b):

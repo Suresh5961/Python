@@ -15,4 +15,4 @@ location = { "doorno":input("Tell us doorno "),
     "pin":int(input("Enter pin code"))
     }
 
-print("your desired job was applyed successfully",Name,"All the best for our future")
+print(Name,"your desired job was applyed successfully All the best for our future")

@@ -1,4 +1,4 @@
-'''#a+=1---->a=a+1
+#a+=1---->a=a+1
 a=int(input("enter tha value a"))
 a+=1
 print(a)
@@ -6,7 +6,7 @@ print(a)
 
 #b-=1---->b=b-1
 
-b=int(input("enter the value of b"))
+'''b=int(input("enter the value of b"))
 b-=2
 print(b)'''
 
