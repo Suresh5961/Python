@@ -8,7 +8,6 @@ delivery={
     "pin":int(input("Enter pin code")),
     "contact":int(input("Contact number "))
 }
-
 print("Order has placed with details of the product",ordername,
       "for the cost of",price,"to the address",delivery,"successfully")  
       
