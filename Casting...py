@@ -34,7 +34,7 @@ print(mobilenumber,type(mobilenumber))'''
 
 #obj1=typeclass(obj2)
 
-king,queen=30.5,20
+num1,num2=30.5,20
 
-king=int(queen)
-print(type(king))
+num1=int(num2)
+print(type(num1))
