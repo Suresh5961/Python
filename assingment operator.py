@@ -1,8 +1,8 @@
-#a+=1---->a=a+1
+'''#a+=1---->a=a+1
 a=int(input("enter tha value a"))
 a+=1
 print(a)
-
+'''
 
 #b-=1---->b=b-1
 
@@ -17,5 +17,5 @@ print(c)'''
 
 #d%=1 --->d=d%1
 d=int(input("enter the value d"))
-d%=3 
+d%=1
 print(d)
