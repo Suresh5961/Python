@@ -1,3 +1,4 @@
+
 '''A=[1,2,3,4,5,"tamil","english"]'''
 '''A.reverse()
 print(A)'''
