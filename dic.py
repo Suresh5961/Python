@@ -53,7 +53,6 @@ for i in y.values():
     print(i)
 for i in y.keys():
     print(i)
-
 for i,j in y.items():
     print(i,j)
 
