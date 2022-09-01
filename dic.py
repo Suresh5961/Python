@@ -42,3 +42,24 @@ print(x)
 
 x.clear()
 print(x)
+
+#for loop using
+y={"name":"pp","age":21,"game":"crikt","frds":["sam","ram","ip"]}
+print(y)
+
+for i in y:
+    print(y[i])
+for i in y.values():
+    print(i)
+for i in y.keys():
+    print(i)
+
+for i,j in y.items():
+    print(i,j)
+
+
+
+
+
+
+
