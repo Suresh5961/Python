@@ -27,7 +27,7 @@ print(b)
 b.update({"name":"SH"})   #----> also change values
 print(b)
 '''
-#remove method 1.pop ,2.popitem 3.del 4.clear
+'''#remove method 1.pop ,2.popitem 3.del 4.clear
 x={"name":"oo","age":"21","frds":["sam","ip","nithya"],"food":"biriyani"}
 print(x)
 
@@ -42,7 +42,7 @@ print(x)
 
 x.clear()
 print(x)
-
+'''
 #for loop using
 y={"name":"pp","age":21,"game":"crikt","frds":["sam","ram","ip"]}
 print(y)
