@@ -18,11 +18,11 @@ city()'''
 grede("B.E",70)
 grede("B.E",45)'''
 
-
+'''
 def vote(name,age,location):
     if age == 18: print(name,"is eligible for vooting",location)
     elif age<=25: print(name,"eligible for vooting",location)
     else:print("ur not eligible")
 vote("aarthi",18,"salem")
 vote("preethi",20,"chennai")
-vote(age=22,location="salem",name="SS")
+vote(age=22,location="salem",name="SS")'''
