@@ -7,4 +7,4 @@ if (posword1<=8):
     else:
         print("pos did't match")
 else:
-    print("need more character") 
+    print("need more character")
