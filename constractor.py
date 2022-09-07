@@ -2,7 +2,7 @@
     def __init__(self):     #constractor to intialized the object
         print("happy to see")
     
-    def b(self):
+    def b(self):                  #function
         print("feeling sad")
     
 a=A()  #only called constractor object     # a is object
