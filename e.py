@@ -52,7 +52,7 @@ for b in range (3,a,3):
     print(b)'''
 
 
-i=3                           #taples
+i=3                            #taples
 for k in range (1,11):    
     t=k*i
     print(t)
