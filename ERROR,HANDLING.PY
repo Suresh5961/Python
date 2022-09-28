@@ -8,4 +8,3 @@ except ValueError as v:
     print(hello*2)
 
 
-print("Rach the end")
