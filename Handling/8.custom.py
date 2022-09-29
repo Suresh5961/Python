@@ -20,6 +20,7 @@ def search():
     except SureshError as s:
         print(s)
         search()
+        sleep(2)
     
 
 search()
