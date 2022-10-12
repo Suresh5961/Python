@@ -1,14 +1,3 @@
-''''#Posword Program
-posword1=int(input("enter pos"))
-posword2=int(input("enter pos2 again"))
-if (posword1<=8):
-    if(posword1==posword2):
-        print("currect")
-    else:
-        print("pos did't match")
-else:
-    print("need more character")'''
-
 #positive or negative number using class #def function
 '''class a:
     def q(self,a):
@@ -51,11 +40,12 @@ a=int(input("enter n"))
 for b in range (3,a,3):
     print(b)'''
 
-
+'''
 i=3                            #taples
 for k in range (1,11):    
     t=k*i
     print(t)
       
+'''
 
 
