@@ -49,3 +49,17 @@ for k in range (1,11):
 '''
 
 
+import turtle
+
+s=turtle.turtles()
+
+
+for i in range(90):
+    s=turtle.left(17)
+    s=turtle.forward(78)
+    turtle.fillcolor("white")
+    wn = turtle.Screen()
+    wn.bgcolor("black")
+    
+
+    turtle.done
