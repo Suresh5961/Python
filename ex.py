@@ -1,9 +1,11 @@
+from pymysql import*
 
+conObj=connect(host='localhost',user='root',password='')
+qry="creat database myfile"
+curObj=conObj.cursor()
+curObj.execute(qry)
 
-
-
-from random import choice
-
+print("create sssucess")
 
 def insert(name,age,place):
     pass
@@ -23,7 +25,7 @@ while True:
     print("3.delete")
     print("4,select data")
     print("5.exit")
-    choice=int(input("enter ur choice"))
+    Choice=int(input("enter ur choice"))
 
 if choice==1:
     name=input("enter name")
