@@ -48,18 +48,16 @@ for k in range (1,11):
       
 '''
 
-
 import turtle
 
-s=turtle.turtles()
+turtle.color("red")
+turtle.begin_fill()
+turtle.pensize(19)
+turtle.left(4)
+turtle.forward(133)
+turtle.circle(50,200)
+turtle.right(140)
+turtle.circle(50,200)
+turtle.forward(133)
 
-
-for i in range(90):
-    s=turtle.left(17)
-    s=turtle.forward(78)
-    turtle.fillcolor("white")
-    wn = turtle.Screen()
-    wn.bgcolor("black")
-    
-
-    turtle.done
+turtle.end_fill("black")
