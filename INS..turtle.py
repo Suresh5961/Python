@@ -40,24 +40,8 @@ a=int(input("enter n"))
 for b in range (3,a,3):
     print(b)'''
 
-'''
+
 i=3                            #taples
-for k in range (1,11):    
-    t=k*i
-    print(t)
-      
-'''
-
-import turtle
-
-turtle.color("red")
-turtle.begin_fill()
-turtle.pensize(19)
-turtle.left(4)
-turtle.forward(133)
-turtle.circle(50,200)
-turtle.right(140)
-turtle.circle(50,200)
-turtle.forward(133)
-
-turtle.end_fill("black")
+for j in range (1,11):    
+    k=j*i
+    print(k)
