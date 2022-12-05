@@ -4,6 +4,9 @@
 
 import turtle
 import time
+screen=turtle.Screen()
+screen.bgcolor("lightgreen")
+
 t=turtle.Turtle()
 t.shape('turtle')
 t.pensize(3)
@@ -30,6 +33,7 @@ class A:
       t.fd(100)
       t.right(90)
       t.fd(150)
+      
     def reg():
       t.right(180)
       t.fd(150)
@@ -53,7 +57,16 @@ class A:
       t.bk(660)
       t.pencolor("black")
       t.fd(1355)
-   
+      t.bk(140)
+      t.left(90)
+      t.penup()
+      t.fd(250)
+      t.pendown()
+
+    def sun():
+      t.circle(25)
+
+      
 A()
 A.squar()
 A.triangal()
@@ -61,4 +74,5 @@ A.regtangular()
 A.reg()
 A.door()
 A.land()
+A.sun()
 time.sleep(5)

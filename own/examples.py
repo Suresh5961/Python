@@ -39,8 +39,8 @@ a=int(input("enter n"))
 
 for b in range (3,a,3):
     print(b)'''
-i=3                            #taples
-for j in range (1,11):    
-    k=j*i
+i=9
+for j in range(1,11):              #tables
+    k=i*j
     print(k)
 

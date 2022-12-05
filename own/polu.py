@@ -1,6 +1,8 @@
 from turtle import *
 import turtle
 import time
+screen=turtle.Screen()
+screen.bgcolor("lightpink")
 
 t=turtle.Turtle()
 t.speed(2)
