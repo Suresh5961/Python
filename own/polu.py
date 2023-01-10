@@ -59,12 +59,3 @@ A.Oo()
 A.Ll()
 A.Uu()
 time.sleep(5)
-class B:
-    T= turtle.Turtle()
-    T.shape("turtle")
-    def heart():
-        for i in range(200):
-            pen.right(10)
-            pen.forward(19)
-B()
-B.heart()
