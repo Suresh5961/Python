@@ -17,12 +17,12 @@ s.E(-11)
 s.q(22)
 '''
 
-'''a=[1,2,3,4]                             
-b=["one","two","three","forur"]
+a=[1,2,3,4,5,6]                             
+b=["one","two","three","forur","five"]
 
 
-for k in range(4):
-    print(a[k],b[k])'''
+for k in range(5):
+    print(a[k],b[k])
 
 
 '''for a in range (20,10,-1):
