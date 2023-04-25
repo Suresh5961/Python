@@ -1,3 +1,11 @@
+#To get user input list
+list=[]
+a=int(input("Enter number of elements in list:"))
+for i in range(0,a):
+    ele=int(input("Enter elements:"))
+    list.append(ele)
+print("List are created :",list)
+
 #Concatinated Two Lists
 List1=[1,2,3,4,5]
 List2=[6,7,8,9,10]
@@ -35,3 +43,4 @@ for i in lista:
     if i<=0:
        lista.remove(i)
 print("negative numbers are removed:\n",lista)
+
