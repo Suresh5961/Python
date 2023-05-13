@@ -15,16 +15,16 @@ print("List are concatinated :\n",List1)
 
 
 # Find negative number &positive num numbers in a list
-Lista=[1,-2,-56,-43,33,23,-9,89,32]
-positive_number=[]
-negative_number=[]
-for i in Lista:
-    if i>=0:
-        positive_number.append(i)
+n=int(input("Enter a range of numbers:"))
+even_number=[]
+odd_number=[]
+for i in range(0,n+1):
+    if i%2==0:
+        even_number.append(i)
     else:
-        negative_number.append(i)
-print("positive_numbers are printed:\n",positive_number)
-print(f"negative_numbers are printed:\n{negative_number}")
+        odd_number.append(i)
+print("even_numbers are printed:\n",even_number)
+print("odd_numbers are printed:\n",odd_number)
 
 #Find even or odd 
 even_number=[]
@@ -36,11 +36,10 @@ for i in range(0,10):
         odd_number.append(i)
 print("even_numbers are printed:\n",even_number)
 print("odd_numbers are printed:\n",odd_number)
-
-#remove negative numbers in the list
-lista=[-6,7,-9,2,-5,3,4,9,-5]
+'''
+'''#remove negative numbers in the list
+lista=[-6,7,-9,2,-5,3,4,9,-5,0]
 for i in lista:
     if i<=0:
        lista.remove(i)
 print("negative numbers are removed:\n",lista)
-
