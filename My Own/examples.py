@@ -16,13 +16,13 @@ s=b()
 s.E(-11)
 s.q(22)
 '''
-
+'''
 a=[1,2,3,4,5,6]                             
 b=["one","two","three","forur","five"]
 
 
 for k in range(5):
-    print(a[k],b[k])
+    print(a[k],b[k])'''
 
 
 '''for a in range (20,10,-1):
@@ -38,16 +38,21 @@ for b in range (3,a,3):
     print(b)'''
 
 #tabels
-i=9
+'''i=9
 for j in range(1,11):              
     k=i*j
     print(k)
-
+'''
 
 
 #finding length
-
+'''
 a=input("enther hear: ")
-print(len(a))
+print(len(a))'''
 
 
+a=10
+b=29
+a,b=b,a
+print("a=",a)
+print("b=",b)
