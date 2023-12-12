@@ -1,0 +1,9 @@
+tuple
+
+colloction of different data types
+
+immutable-->()
+
+ex:
+
+a=(1,2,3,"aarthi",'a',0.1)

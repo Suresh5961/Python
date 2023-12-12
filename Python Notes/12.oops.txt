@@ -1,0 +1,38 @@
+oops --->object oriented programming structure (or)lang:
+
+1.object---->real time entity
+2.class ---> collection object (or) collection of function
+3.abstraction
+4.encapsulation
+5.polymorphism
+6.inheritece----->base class into drived class.
+
+1.single inheritence---->
+
+one base class and one drived.
+
+ex:
+
+class A:
+def display(self):
+print("hai")
+class B(A):
+def display1(self):
+print("hello")
+
+object=B()
+
+obj.display()
+obj.display1()
+
+
+2.multiple inheritence ------>
+two base class and one derived class
+
+3.multi level  ---->
+level by level proccess
+
+4.hierical inheritence---->
+
+
+one base class and two or more derived class

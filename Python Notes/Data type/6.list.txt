@@ -1,0 +1,15 @@
+list 
+tuple
+set
+dictionary
+
+list:
+ colloction of diferend data types
+ mutable--.>can be change
+
+list--->[]
+
+ex:
+a=[1,2,3.4,"str",'a']
+A.extend(B)    #---> Extend function use add two list
+

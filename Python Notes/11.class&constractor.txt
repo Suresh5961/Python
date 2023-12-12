@@ -1,0 +1,29 @@
+class ---->colloction object.
+
+class A:                         using __init__ is called constractor
+
+def fun(self):
+
+a=10
+b=20
+
+c=a+b
+
+print(c)
+
+
+def fun1(self):
+
+d=20
+f=10
+
+h=d-f
+
+print(h)
+
+
+a=A()             ----assing 'a=__()' to call class 
+
+a=fun()
+
+a=fun2()

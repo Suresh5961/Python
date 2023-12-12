@@ -1,0 +1,18 @@
+Dictionary:
+
+
+
+collection of different data type
+
+key and value,
+
+
+key--->not change
+value--->can be change,
+
+
+dictionary--->{}
+
+ex:
+
+A={a:"aarthi",b:1}

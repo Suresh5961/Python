@@ -1,0 +1,13 @@
+while loop:
+
+syntex:
+ 
+
+while(condition):
+
+
+statement
+
+
+increment/decrement
+

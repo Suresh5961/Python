@@ -1,0 +1,13 @@
+Error Handling:
+
+      error/exception:
+            happens at exacution time and it could be handled
+
+why to handle:
+
+    try:
+       probale statemnts which could raise an exception/error
+
+excapt errorclass as object:
+      
+       handling/another chance statement for the raised error

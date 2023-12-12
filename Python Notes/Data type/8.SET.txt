@@ -1,0 +1,23 @@
+Set:
+
+colloction of different data type.
+
+Unoredered
+
+set--->{}
+
+ex:
+
+a={1,2,3,4,21,"aarthi"}             -->o/p position change 
+print(a)    
+
+o/p==>
+
+{2,1,4,21,"aarthi",3}
+{1,21,4,3,"aarthi"}
+
+
+dublicate not allowed---->1,1,4,4
+index not find
+
+

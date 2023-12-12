@@ -1,0 +1,62 @@
+CONTROL STATEMENT
+
+1.if..
+
+2.if else
+
+3.elif..
+
+
+   1.if:
+
+syntex:
+
+if(condition):
+
+statement
+
+
+......
+
+   2.if else:
+
+syntex:
+
+if(condition):
+
+statement
+
+
+else:
+
+statement
+
+......
+
+    3.elif:
+
+sytax:
+
+if(condition)
+
+
+statement
+
+
+else:
+
+statement
+
+.......
+
+
+ 4. nested if condition
+
+     if(condition):
+
+         if(condition):
+
+           statement
+
+else:
+    statement

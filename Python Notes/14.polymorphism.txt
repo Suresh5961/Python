@@ -1,0 +1,25 @@
+polymorphism:
+
+one thinks in many diffecrent ways.
+
+2 types:
+
+1.overloading 
+same function name and different parameter.
+ex.
+def fun(int a):
+print(a)
+
+def fun(int a,int b)
+print(a)
+print(b)
+
+2.overridding
+
+same function name and same parameter.
+
+def display(int a):
+print(a)
+
+def display(int a):
+print(b)

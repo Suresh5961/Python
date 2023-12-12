@@ -1,0 +1,49 @@
+programming:
+    to develop software 
+    
+    hardwar manipulation: system softwar
+            eg: os, drive, simulators, emmedded, android,......
+            skill sets: c, python, cuda, assembly,.....
+    
+    process manipulation: application s/w
+            eg: games, caculator, ms office, photoshop,adobe, g pay, website,e- comerce-flipkard, amazon
+
+
+
+objective of software:
+         mange the data
+         proccess the data
+
+
+application software:
+      
+ console app   : core python
+    
+    overview
+    installation
+    datatype
+    operators
+    control statements 
+    looping
+    function
+    list
+    array
+    tuple
+    dict
+    set
+   
+
+   opp
+   maltithread
+   error handling
+   file
+   database : mysql
+
+
+window app : tkinter(module)
+
+web app :static(htm1,css,js,bs), daynamic(django)
+embedded app/iot: rasberrypy
+
+
+

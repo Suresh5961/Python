@@ -1,0 +1,32 @@
+function or method
+
+
+block of code.
+
+reuabillity of code.
+
+function--->()
+
+ex:
+
+def---->keyword
+
+def user_name():  a()
+
+statement
+
+a()---->function calling
+
+
+ex:
+
+def b():
+
+a=10
+b=20
+c=a+b
+
+print(c)
+
+
+b()---->function calling

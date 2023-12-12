@@ -1,0 +1,29 @@
+
+4.hierical inheritence---->
+
+
+one base class and two or more derived class.
+
+ex.
+class a:
+
+def display(self):
+print("hai")
+
+class b(a):
+def display1(self):
+print ("hello")
+
+class c(a)
+def display2(self):
+print("welcome")
+
+s1=b()
+
+s2=c()
+
+
+s1.display1()
+s1.display()
+
+s2.display2()

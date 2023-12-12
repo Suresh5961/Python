@@ -1,0 +1,8 @@
+
+types of error
+
+
+value error
+type error
+indexerror
+key error
